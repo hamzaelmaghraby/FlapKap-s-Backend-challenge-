@@ -45,7 +45,7 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 ## EndPoints 
-# /users/signup  Create new user (buyer , seller)
+# /users/signup              Create new user (buyer , seller)
 # /auth/login    user login(return authentication token)
 # /users         get,update and delete user
 # /products      CRUD for products 
