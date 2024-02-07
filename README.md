@@ -44,6 +44,14 @@ $ yarn run start:dev
 # production mode
 $ yarn run start:prod
 ```
+## EndPoints 
+# /users/signup  Create new user (buyer , seller)
+# /auth/login    user login(return authentication token)
+# /users         get,update and delete user
+# /products      CRUD for products 
+# /deposit       user deposit 
+# /buy           buy product
+# /reset         reset user's deposit 
 
 ## Test
 
