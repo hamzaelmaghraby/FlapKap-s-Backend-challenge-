@@ -28,7 +28,7 @@ To install and run the VendX Vending Machine API locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/vending-machine-api.git
+   git clone https://github.com/hamzaelmaghraby/VendX-Vending-Machine-API.git
 2. Navigate to the project directory:
    ```bash
    cd vending-machine-api
